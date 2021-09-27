@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\03_TextWithBorder\bin\Debug\03_TextWithBorder.exe.config
+C:\Users\User\source\repos\03_TextWithBorder\bin\Debug\03_TextWithBorder.exe
+C:\Users\User\source\repos\03_TextWithBorder\bin\Debug\03_TextWithBorder.pdb
+C:\Users\User\source\repos\03_TextWithBorder\obj\Debug\03_TextWithBorder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03_TextWithBorder\obj\Debug\03_TextWithBorder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03_TextWithBorder\obj\Debug\03_TextWithBorder.exe
+C:\Users\User\source\repos\03_TextWithBorder\obj\Debug\03_TextWithBorder.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\UlearnRecursion\bin\Debug\UlearnRecursion.exe.config
+C:\Users\User\source\repos\ConsoleApp23\UlearnRecursion\bin\Debug\UlearnRecursion.exe
+C:\Users\User\source\repos\ConsoleApp23\UlearnRecursion\bin\Debug\UlearnRecursion.pdb
+C:\Users\User\source\repos\ConsoleApp23\UlearnRecursion\obj\Debug\UlearnRecursion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\UlearnRecursion\obj\Debug\UlearnRecursion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\UlearnRecursion\obj\Debug\UlearnRecursion.exe
+C:\Users\User\source\repos\ConsoleApp23\UlearnRecursion\obj\Debug\UlearnRecursion.pdb

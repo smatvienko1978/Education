@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\bin\Debug\Solver.dll
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\bin\Debug\Solver.pdb
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\obj\Debug\QuadraticEquation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CopyComplete
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\User\source\repos\UlearnMe2\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

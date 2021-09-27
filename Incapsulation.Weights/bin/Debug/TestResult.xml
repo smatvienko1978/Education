@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Incapsulation.Weights.exe" fullname="C:/Users/User/source/repos/Incapsulation.Weights/bin/Debug/Incapsulation.Weights.exe" testcasecount="27" result="Failed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:48:59Z" duration="64.010579" total="27" passed="25" failed="2" inconclusive="0" skipped="0" asserts="18" random-seed="2120420887">
+  <command-line><![CDATA["C:\Users\User\source\repos\Incapsulation.Weights\bin\Debug\Incapsulation.Weights.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1034" name="Incapsulation.Weights.exe" fullname="C:/Users/User/source/repos/Incapsulation.Weights/bin/Debug/Incapsulation.Weights.exe" runstate="Runnable" testcasecount="27" result="Failed" site="Child" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:48:59Z" duration="64.010579" total="27" passed="25" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="18">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\User\source\repos\Incapsulation.Weights\bin\Debug" machine-name="DELL" user="User" user-domain="DELL" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\User\source\repos\Incapsulation.Weights\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="5600" />
+      <property name="_APPDOMAIN" value="Incapsulation.Weights.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1035" name="Incapsulation" fullname="Incapsulation" runstate="Runnable" testcasecount="27" result="Failed" site="Child" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:48:59Z" duration="63.972023" total="27" passed="25" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="18">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1036" name="Weights" fullname="Incapsulation.Weights" runstate="Runnable" testcasecount="27" result="Failed" site="Child" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:48:59Z" duration="63.970008" total="27" passed="25" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="18">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestFixture" id="1000" name="Indexer_should" fullname="Incapsulation.Weights.Indexer_should" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="27" result="Failed" site="Child" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:48:59Z" duration="63.962011" total="27" passed="25" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="18">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-suite type="ParameterizedMethod" id="1017" name="ConstructorFails_WhenRangeIsInvalid" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="8" result="Passed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:47:56Z" duration="0.656259" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="8">
+            <test-case id="1009" name="ConstructorFails_WhenRangeIsInvalid(-1,3)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(-1,3)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1239210846" result="Passed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:47:55Z" duration="0.480715" asserts="1" />
+            <test-case id="1010" name="ConstructorFails_WhenRangeIsInvalid(1,-1)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(1,-1)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="184880489" result="Passed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:47:55Z" duration="0.029885" asserts="1" />
+            <test-case id="1011" name="ConstructorFails_WhenRangeIsInvalid(1,10)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(1,10)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1903076175" result="Passed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:47:55Z" duration="0.019422" asserts="1" />
+            <test-case id="1012" name="ConstructorFails_WhenRangeIsInvalid(0,5)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(0,5)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1113735760" result="Passed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:47:55Z" duration="0.019803" asserts="1" />
+            <test-case id="1013" name="ConstructorFails_WhenRangeIsInvalid(1,4)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(1,4)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="786926455" result="Passed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:47:55Z" duration="0.019844" asserts="1" />
+            <test-case id="1014" name="ConstructorFails_WhenRangeIsInvalid(2,3)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(2,3)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="435224850" result="Passed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:47:55Z" duration="0.020624" asserts="1" />
+            <test-case id="1015" name="ConstructorFails_WhenRangeIsInvalid(3,2)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(3,2)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1650462509" result="Passed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:47:55Z" duration="0.020826" asserts="1" />
+            <test-case id="1016" name="ConstructorFails_WhenRangeIsInvalid(4,1)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(4,1)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1547821186" result="Passed" start-time="2021-09-27 06:47:55Z" end-time="2021-09-27 06:47:55Z" duration="0.023953" asserts="1" />
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="1027" name="ConstructorNotFail_WhenRangeIsValid" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="9" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.018034" total="9" passed="9" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+            <test-case id="1018" name="ConstructorNotFail_WhenRangeIsValid(0,0)" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid(0,0)" methodname="ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="533652406" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000207" asserts="0" />
+            <test-case id="1019" name="ConstructorNotFail_WhenRangeIsValid(0,1)" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid(0,1)" methodname="ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1014183737" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000073" asserts="0" />
+            <test-case id="1020" name="ConstructorNotFail_WhenRangeIsValid(0,4)" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid(0,4)" methodname="ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="399382446" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000089" asserts="0" />
+            <test-case id="1021" name="ConstructorNotFail_WhenRangeIsValid(1,0)" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid(1,0)" methodname="ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="851604076" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000071" asserts="0" />
+            <test-case id="1022" name="ConstructorNotFail_WhenRangeIsValid(1,1)" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid(1,1)" methodname="ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1921025055" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000068" asserts="0" />
+            <test-case id="1023" name="ConstructorNotFail_WhenRangeIsValid(1,3)" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid(1,3)" methodname="ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="953045202" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000080" asserts="0" />
+            <test-case id="1024" name="ConstructorNotFail_WhenRangeIsValid(3,0)" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid(3,0)" methodname="ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1521382784" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000069" asserts="0" />
+            <test-case id="1025" name="ConstructorNotFail_WhenRangeIsValid(3,1)" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid(3,1)" methodname="ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1603104332" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000132" asserts="0" />
+            <test-case id="1026" name="ConstructorNotFail_WhenRangeIsValid(4,0)" fullname="Incapsulation.Weights.Indexer_should.ConstructorNotFail_WhenRangeIsValid(4,0)" methodname="ConstructorNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1850368358" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000124" asserts="0" />
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="1004" name="GetCorrectly" fullname="Incapsulation.Weights.Indexer_should.GetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="2" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.014028" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+            <test-case id="1002" name="GetCorrectly(0,2)" fullname="Incapsulation.Weights.Indexer_should.GetCorrectly(0,2)" methodname="GetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1239492478" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.010978" asserts="1" />
+            <test-case id="1003" name="GetCorrectly(1,3)" fullname="Incapsulation.Weights.Indexer_should.GetCorrectly(1,3)" methodname="GetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="27195005" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000105" asserts="1" />
+          </test-suite>
+          <test-case id="1001" name="HaveCorrectLength" fullname="Incapsulation.Weights.Indexer_should.HaveCorrectLength" methodname="HaveCorrectLength" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="343788796" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000361" asserts="1" />
+          <test-case id="1008" name="IndexerDoesNotCopyArray" fullname="Incapsulation.Weights.Indexer_should.IndexerDoesNotCopyArray" methodname="IndexerDoesNotCopyArray" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1880436161" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:47:56Z" duration="0.000387" asserts="1" />
+          <test-suite type="ParameterizedMethod" id="1030" name="IndexerGetter_Fails_WhenIndexIsWrong" fullname="Incapsulation.Weights.Indexer_should.IndexerGetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:48:59Z" duration="63.155008" total="2" passed="1" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="2">
+            <failure>
+              <message><![CDATA[One or more child tests had errors]]></message>
+            </failure>
+            <test-case id="1028" name="IndexerGetter_Fails_WhenIndexIsWrong(-1)" fullname="Incapsulation.Weights.Indexer_should.IndexerGetter_Fails_WhenIndexIsWrong(-1)" methodname="IndexerGetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1445936058" result="Passed" start-time="2021-09-27 06:47:56Z" end-time="2021-09-27 06:48:36Z" duration="40.176131" asserts="1" />
+            <test-case id="1029" name="IndexerGetter_Fails_WhenIndexIsWrong(2)" fullname="Incapsulation.Weights.Indexer_should.IndexerGetter_Fails_WhenIndexIsWrong(2)" methodname="IndexerGetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="901390889" result="Failed" start-time="2021-09-27 06:48:36Z" end-time="2021-09-27 06:48:59Z" duration="22.971827" asserts="1">
+              <failure>
+                <message><![CDATA[  Expected: <System.IndexOutOfRangeException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[в Incapsulation.Weights.Indexer_should.IndexerGetter_Fails_WhenIndexIsWrong(Int32 index) в C:\Users\User\source\repos\Incapsulation.Weights\Indexer_should.cs:строка 80
+]]></stack-trace>
+              </failure>
+              <assertions>
+                <assertion result="Failed">
+                  <message><![CDATA[  Expected: <System.IndexOutOfRangeException>
+  But was:  null
+]]></message>
+                  <stack-trace><![CDATA[в Incapsulation.Weights.Indexer_should.IndexerGetter_Fails_WhenIndexIsWrong(Int32 index) в C:\Users\User\source\repos\Incapsulation.Weights\Indexer_should.cs:строка 80
+]]></stack-trace>
+                </assertion>
+              </assertions>
+            </test-case>
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="1033" name="IndexerSetter_Fails_WhenIndexIsWrong" fullname="Incapsulation.Weights.Indexer_should.IndexerSetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2021-09-27 06:48:59Z" end-time="2021-09-27 06:48:59Z" duration="0.085032" total="2" passed="1" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="2">
+            <failure>
+              <message><![CDATA[One or more child tests had errors]]></message>
+            </failure>
+            <test-case id="1031" name="IndexerSetter_Fails_WhenIndexIsWrong(-1)" fullname="Incapsulation.Weights.Indexer_should.IndexerSetter_Fails_WhenIndexIsWrong(-1)" methodname="IndexerSetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="583684769" result="Passed" start-time="2021-09-27 06:48:59Z" end-time="2021-09-27 06:48:59Z" duration="0.020035" asserts="1" />
+            <test-case id="1032" name="IndexerSetter_Fails_WhenIndexIsWrong(2)" fullname="Incapsulation.Weights.Indexer_should.IndexerSetter_Fails_WhenIndexIsWrong(2)" methodname="IndexerSetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="966686625" result="Failed" start-time="2021-09-27 06:48:59Z" end-time="2021-09-27 06:48:59Z" duration="0.061012" asserts="1">
+              <failure>
+                <message><![CDATA[  Expected: <System.IndexOutOfRangeException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[в Incapsulation.Weights.Indexer_should.IndexerSetter_Fails_WhenIndexIsWrong(Int32 index) в C:\Users\User\source\repos\Incapsulation.Weights\Indexer_should.cs:строка 88
+]]></stack-trace>
+              </failure>
+              <assertions>
+                <assertion result="Failed">
+                  <message><![CDATA[  Expected: <System.IndexOutOfRangeException>
+  But was:  null
+]]></message>
+                  <stack-trace><![CDATA[в Incapsulation.Weights.Indexer_should.IndexerSetter_Fails_WhenIndexIsWrong(Int32 index) в C:\Users\User\source\repos\Incapsulation.Weights\Indexer_should.cs:строка 88
+]]></stack-trace>
+                </assertion>
+              </assertions>
+            </test-case>
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="1007" name="SetCorrectly" fullname="Incapsulation.Weights.Indexer_should.SetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="2" result="Passed" start-time="2021-09-27 06:48:59Z" end-time="2021-09-27 06:48:59Z" duration="0.004019" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+            <test-case id="1005" name="SetCorrectly(0)" fullname="Incapsulation.Weights.Indexer_should.SetCorrectly(0)" methodname="SetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="470882548" result="Passed" start-time="2021-09-27 06:48:59Z" end-time="2021-09-27 06:48:59Z" duration="0.000366" asserts="1" />
+            <test-case id="1006" name="SetCorrectly(1)" fullname="Incapsulation.Weights.Indexer_should.SetCorrectly(1)" methodname="SetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="940641094" result="Passed" start-time="2021-09-27 06:48:59Z" end-time="2021-09-27 06:48:59Z" duration="0.000094" asserts="1" />
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

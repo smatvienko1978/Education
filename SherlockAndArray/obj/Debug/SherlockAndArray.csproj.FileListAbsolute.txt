@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SherlockAndArray\bin\Debug\SherlockAndArray.exe.config
+C:\Users\User\source\repos\SherlockAndArray\bin\Debug\SherlockAndArray.exe
+C:\Users\User\source\repos\SherlockAndArray\bin\Debug\SherlockAndArray.pdb
+C:\Users\User\source\repos\SherlockAndArray\obj\Debug\SherlockAndArray.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SherlockAndArray\obj\Debug\SherlockAndArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SherlockAndArray\obj\Debug\SherlockAndArray.exe
+C:\Users\User\source\repos\SherlockAndArray\obj\Debug\SherlockAndArray.pdb

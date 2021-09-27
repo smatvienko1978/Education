@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibraryTests\Debug\netcoreapp3.1\testhost.dll
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibraryTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibraryTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibraryTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibraryTests\Debug\netcoreapp3.1\testhost.exe
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.deps.json
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.runtimeconfig.json
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.runtimeconfig.dev.json
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.dll
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.AssemblyInfo.cs
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.csproj.CopyComplete
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.dll
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibraryTests\Debug\netcoreapp3.1\ClassLibraryTests.genruntimeconfig.cache

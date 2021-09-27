@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\User\source\repos\MinMax\bin\Debug\MinMax.exe
+C:\Users\User\source\repos\MinMax\bin\Debug\MinMax.pdb
+C:\Users\User\source\repos\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MinMax\obj\Debug\MinMax.exe
+C:\Users\User\source\repos\MinMax\obj\Debug\MinMax.pdb

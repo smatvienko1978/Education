@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\06_JesseCookies\bin\Debug\06_JesseCookies.exe.config
+C:\Users\User\source\repos\06_JesseCookies\bin\Debug\06_JesseCookies.exe
+C:\Users\User\source\repos\06_JesseCookies\bin\Debug\06_JesseCookies.pdb
+C:\Users\User\source\repos\06_JesseCookies\obj\Debug\06_JesseCookies.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06_JesseCookies\obj\Debug\06_JesseCookies.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\06_JesseCookies\obj\Debug\06_JesseCookies.exe
+C:\Users\User\source\repos\06_JesseCookies\obj\Debug\06_JesseCookies.pdb

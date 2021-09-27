@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ArrayDistance\bin\Debug\ArrayDistance.exe.config
+C:\Users\User\source\repos\ArrayDistance\bin\Debug\ArrayDistance.exe
+C:\Users\User\source\repos\ArrayDistance\bin\Debug\ArrayDistance.pdb
+C:\Users\User\source\repos\ArrayDistance\obj\Debug\ArrayDistance.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ArrayDistance\obj\Debug\ArrayDistance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayDistance\obj\Debug\ArrayDistance.exe
+C:\Users\User\source\repos\ArrayDistance\obj\Debug\ArrayDistance.pdb

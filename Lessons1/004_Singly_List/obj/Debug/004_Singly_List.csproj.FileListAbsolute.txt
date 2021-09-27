@@ -1,0 +1,11 @@
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_List\bin\Debug\004_List.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_List\obj\Debug\004_List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_List\obj\Debug\004_List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_List\bin\Debug\004_List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_List\bin\Debug\004_List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_Singly_List\bin\Debug\004_List.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_Singly_List\obj\Debug\004_List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_Singly_List\obj\Debug\004_List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_Singly_List\bin\Debug\004_List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_Singly_List\bin\Debug\004_List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\004_Singly_List\obj\Debug\004_Singly_List.csprojResolveAssemblyReference.cache

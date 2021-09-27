@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\StrangeCounter\bin\Debug\StrangeCounter.exe.config
+C:\Users\User\source\repos\StrangeCounter\bin\Debug\StrangeCounter.exe
+C:\Users\User\source\repos\StrangeCounter\bin\Debug\StrangeCounter.pdb
+C:\Users\User\source\repos\StrangeCounter\obj\Debug\StrangeCounter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StrangeCounter\obj\Debug\StrangeCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StrangeCounter\obj\Debug\StrangeCounter.exe
+C:\Users\User\source\repos\StrangeCounter\obj\Debug\StrangeCounter.pdb

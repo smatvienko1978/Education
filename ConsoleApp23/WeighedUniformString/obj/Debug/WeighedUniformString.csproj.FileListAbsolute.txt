@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\WeighedUniformString\bin\Debug\WeighedUniformString.exe.config
+C:\Users\User\source\repos\ConsoleApp23\WeighedUniformString\bin\Debug\WeighedUniformString.exe
+C:\Users\User\source\repos\ConsoleApp23\WeighedUniformString\bin\Debug\WeighedUniformString.pdb
+C:\Users\User\source\repos\ConsoleApp23\WeighedUniformString\obj\Debug\WeighedUniformString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\WeighedUniformString\obj\Debug\WeighedUniformString.exe
+C:\Users\User\source\repos\ConsoleApp23\WeighedUniformString\obj\Debug\WeighedUniformString.pdb
+C:\Users\User\source\repos\ConsoleApp23\WeighedUniformString\obj\Debug\WeighedUniformString.csprojAssemblyReference.cache

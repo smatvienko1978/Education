@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SummaTwoMinimums\obj\Debug\SummaTwoMinimums.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SummaTwoMinimums\obj\Debug\SummaTwoMinimums.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SummaTwoMinimums\bin\Debug\SummaTwoMinimums.exe.config
+C:\Users\User\source\repos\SummaTwoMinimums\bin\Debug\SummaTwoMinimums.exe
+C:\Users\User\source\repos\SummaTwoMinimums\bin\Debug\SummaTwoMinimums.pdb
+C:\Users\User\source\repos\SummaTwoMinimums\obj\Debug\SummaTwoMinimums.exe
+C:\Users\User\source\repos\SummaTwoMinimums\obj\Debug\SummaTwoMinimums.pdb

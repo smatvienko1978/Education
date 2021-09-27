@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Backpack\bin\Debug\Backpack.exe.config
+C:\Users\User\source\repos\Backpack\bin\Debug\Backpack.exe
+C:\Users\User\source\repos\Backpack\bin\Debug\Backpack.pdb
+C:\Users\User\source\repos\Backpack\obj\Debug\Backpack.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Backpack\obj\Debug\Backpack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Backpack\obj\Debug\Backpack.exe
+C:\Users\User\source\repos\Backpack\obj\Debug\Backpack.pdb

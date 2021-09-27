@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MergeTwoSortedList\bin\Debug\MergeTwoSortedList.exe.config
+C:\Users\User\source\repos\MergeTwoSortedList\bin\Debug\MergeTwoSortedList.exe
+C:\Users\User\source\repos\MergeTwoSortedList\bin\Debug\MergeTwoSortedList.pdb
+C:\Users\User\source\repos\MergeTwoSortedList\obj\Debug\MergeTwoSortedList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MergeTwoSortedList\obj\Debug\MergeTwoSortedList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MergeTwoSortedList\obj\Debug\MergeTwoSortedList.exe
+C:\Users\User\source\repos\MergeTwoSortedList\obj\Debug\MergeTwoSortedList.pdb

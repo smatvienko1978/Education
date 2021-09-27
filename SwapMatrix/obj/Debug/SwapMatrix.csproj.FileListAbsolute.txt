@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SwapMatrix\obj\Debug\SwapMatrix.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SwapMatrix\obj\Debug\SwapMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SwapMatrix\bin\Debug\SwapMatrix.exe.config
+C:\Users\User\source\repos\SwapMatrix\bin\Debug\SwapMatrix.exe
+C:\Users\User\source\repos\SwapMatrix\bin\Debug\SwapMatrix.pdb
+C:\Users\User\source\repos\SwapMatrix\obj\Debug\SwapMatrix.exe
+C:\Users\User\source\repos\SwapMatrix\obj\Debug\SwapMatrix.pdb

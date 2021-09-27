@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\BookFine\bin\Debug\BookFine.exe.config
+C:\Users\User\source\repos\ConsoleApp23\BookFine\bin\Debug\BookFine.exe
+C:\Users\User\source\repos\ConsoleApp23\BookFine\bin\Debug\BookFine.pdb
+C:\Users\User\source\repos\ConsoleApp23\BookFine\obj\Debug\BookFine.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\BookFine\obj\Debug\BookFine.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\BookFine\obj\Debug\BookFine.exe
+C:\Users\User\source\repos\ConsoleApp23\BookFine\obj\Debug\BookFine.pdb

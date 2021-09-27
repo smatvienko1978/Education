@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\MyUnitTest\bin\Debug\MyUnitTest.exe.config
+C:\Users\User\source\repos\MyUnitTest\bin\Debug\MyUnitTest.exe
+C:\Users\User\source\repos\MyUnitTest\bin\Debug\MyUnitTest.pdb
+C:\Users\User\source\repos\MyUnitTest\bin\Debug\Library.dll
+C:\Users\User\source\repos\MyUnitTest\bin\Debug\Library.pdb
+C:\Users\User\source\repos\MyUnitTest\obj\Debug\MyUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyUnitTest\obj\Debug\MyUnitTest.csproj.CopyComplete
+C:\Users\User\source\repos\MyUnitTest\obj\Debug\MyUnitTest.exe
+C:\Users\User\source\repos\MyUnitTest\obj\Debug\MyUnitTest.pdb

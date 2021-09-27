@@ -1,0 +1,11 @@
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Lessons1\bin\Debug\Lessons1.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Lessons1\obj\Debug\Lessons1.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Lessons1\obj\Debug\Lessons1.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Lessons1\bin\Debug\Lessons1.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Lessons1\bin\Debug\Lessons1.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\003_Bubble sort\bin\Debug\Lessons1.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\003_Bubble sort\obj\Debug\Lessons1.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\003_Bubble sort\obj\Debug\Lessons1.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\003_Bubble sort\bin\Debug\Lessons1.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\003_Bubble sort\bin\Debug\Lessons1.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\003_Bubble sort\obj\Debug\003_Bubble sort.csprojResolveAssemblyReference.cache

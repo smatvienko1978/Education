@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ClimbingLeaderBoard2\bin\Debug\ClimbingLeaderBoard2.exe.config
+C:\Users\User\source\repos\ClimbingLeaderBoard2\bin\Debug\ClimbingLeaderBoard2.exe
+C:\Users\User\source\repos\ClimbingLeaderBoard2\bin\Debug\ClimbingLeaderBoard2.pdb
+C:\Users\User\source\repos\ClimbingLeaderBoard2\obj\Debug\ClimbingLeaderBoard2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClimbingLeaderBoard2\obj\Debug\ClimbingLeaderBoard2.exe
+C:\Users\User\source\repos\ClimbingLeaderBoard2\obj\Debug\ClimbingLeaderBoard2.pdb
+C:\Users\User\source\repos\ClimbingLeaderBoard2\obj\Debug\ClimbingLeaderBoard2.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\hourglass\obj\Debug\hourglass.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\hourglass\obj\Debug\hourglass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\hourglass\bin\Debug\hourglass.exe.config
+C:\Users\User\source\repos\ConsoleApp23\hourglass\bin\Debug\hourglass.exe
+C:\Users\User\source\repos\ConsoleApp23\hourglass\bin\Debug\hourglass.pdb
+C:\Users\User\source\repos\ConsoleApp23\hourglass\obj\Debug\hourglass.exe
+C:\Users\User\source\repos\ConsoleApp23\hourglass\obj\Debug\hourglass.pdb

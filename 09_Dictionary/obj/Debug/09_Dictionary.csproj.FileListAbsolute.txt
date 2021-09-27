@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\09_Dictionary\bin\Debug\09_Dictionary.exe.config
+C:\Users\User\source\repos\09_Dictionary\bin\Debug\09_Dictionary.exe
+C:\Users\User\source\repos\09_Dictionary\bin\Debug\09_Dictionary.pdb
+C:\Users\User\source\repos\09_Dictionary\obj\Debug\09_Dictionary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\09_Dictionary\obj\Debug\09_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\09_Dictionary\obj\Debug\09_Dictionary.exe
+C:\Users\User\source\repos\09_Dictionary\obj\Debug\09_Dictionary.pdb

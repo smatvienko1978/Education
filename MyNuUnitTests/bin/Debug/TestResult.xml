@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="MyNuUnitTests.exe" fullname="C:/Users/User/source/repos/MyNuUnitTests/bin/Debug/MyNuUnitTests.exe" testcasecount="0" result="Failed" label="Invalid" start-time="2021-06-22T07:06:06.0652516Z" end-time="2021-06-22T07:06:06.0852528Z" duration="0.020364" total="0" passed="0" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="0" random-seed="302339726">
+  <command-line><![CDATA["C:\Users\User\source\repos\MyNuUnitTests\bin\Debug\MyNuUnitTests.exe"   ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1000" name="MyNuUnitTests.exe" fullname="C:/Users/User/source/repos/MyNuUnitTests/bin/Debug/MyNuUnitTests.exe" runstate="NotRunnable" testcasecount="0" result="Failed" label="Invalid" site="SetUp" start-time="2021-06-22T07:06:06.0652516Z" end-time="2021-06-22T07:06:06.0852528Z" duration="0.020364" total="0" passed="0" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.13.2.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601.65536" platform="Win32NT" cwd="C:\Users\User\source\repos\MyNuUnitTests\bin\Debug" machine-name="DELL" user="User" user-domain="DELL" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\User\source\repos\MyNuUnitTests\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_SKIPREASON" value="No test fixtures were found." />
+      <property name="_PID" value="3924" />
+      <property name="_APPDOMAIN" value="MyNuUnitTests.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[No test fixtures were found.]]></message>
+    </failure>
+  </test-suite>
+</test-run>

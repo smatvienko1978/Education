@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\GenericLinkedList\bin\Debug\GenericLinkedList.exe.config
+C:\Users\User\source\repos\ConsoleApp23\GenericLinkedList\bin\Debug\GenericLinkedList.exe
+C:\Users\User\source\repos\ConsoleApp23\GenericLinkedList\bin\Debug\GenericLinkedList.pdb
+C:\Users\User\source\repos\ConsoleApp23\GenericLinkedList\obj\Debug\GenericLinkedList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\GenericLinkedList\obj\Debug\GenericLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\GenericLinkedList\obj\Debug\GenericLinkedList.exe
+C:\Users\User\source\repos\ConsoleApp23\GenericLinkedList\obj\Debug\GenericLinkedList.pdb

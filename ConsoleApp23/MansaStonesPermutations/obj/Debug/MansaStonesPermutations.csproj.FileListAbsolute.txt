@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\MansaStonesPermutations\obj\Debug\MansaStonesPermutations.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\MansaStonesPermutations\obj\Debug\MansaStonesPermutations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\MansaStonesPermutations\bin\Debug\MansaStonesPermutations.exe.config
+C:\Users\User\source\repos\ConsoleApp23\MansaStonesPermutations\bin\Debug\MansaStonesPermutations.exe
+C:\Users\User\source\repos\ConsoleApp23\MansaStonesPermutations\bin\Debug\MansaStonesPermutations.pdb
+C:\Users\User\source\repos\ConsoleApp23\MansaStonesPermutations\obj\Debug\MansaStonesPermutations.exe
+C:\Users\User\source\repos\ConsoleApp23\MansaStonesPermutations\obj\Debug\MansaStonesPermutations.pdb

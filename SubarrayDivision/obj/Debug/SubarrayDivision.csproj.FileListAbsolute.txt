@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SubarrayDivision\bin\Debug\SubarrayDivision.exe.config
+C:\Users\User\source\repos\SubarrayDivision\bin\Debug\SubarrayDivision.exe
+C:\Users\User\source\repos\SubarrayDivision\bin\Debug\SubarrayDivision.pdb
+C:\Users\User\source\repos\SubarrayDivision\obj\Debug\SubarrayDivision.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SubarrayDivision\obj\Debug\SubarrayDivision.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SubarrayDivision\obj\Debug\SubarrayDivision.exe
+C:\Users\User\source\repos\SubarrayDivision\obj\Debug\SubarrayDivision.pdb

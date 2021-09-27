@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CrossWordsPuzzle\bin\Debug\CrossWordsPuzzle.exe.config
+C:\Users\User\source\repos\CrossWordsPuzzle\bin\Debug\CrossWordsPuzzle.exe
+C:\Users\User\source\repos\CrossWordsPuzzle\bin\Debug\CrossWordsPuzzle.pdb
+C:\Users\User\source\repos\CrossWordsPuzzle\obj\Debug\CrossWordsPuzzle.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CrossWordsPuzzle\obj\Debug\CrossWordsPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CrossWordsPuzzle\obj\Debug\CrossWordsPuzzle.exe
+C:\Users\User\source\repos\CrossWordsPuzzle\obj\Debug\CrossWordsPuzzle.pdb

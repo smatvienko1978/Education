@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\03_ZigZag\bin\Debug\03_ZigZag.exe.config
+C:\Users\User\source\repos\03_ZigZag\bin\Debug\03_ZigZag.exe
+C:\Users\User\source\repos\03_ZigZag\bin\Debug\03_ZigZag.pdb
+C:\Users\User\source\repos\03_ZigZag\obj\Debug\03_ZigZag.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03_ZigZag\obj\Debug\03_ZigZag.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03_ZigZag\obj\Debug\03_ZigZag.exe
+C:\Users\User\source\repos\03_ZigZag\obj\Debug\03_ZigZag.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\FunnyString\bin\Debug\FunnyString.exe.config
+C:\Users\User\source\repos\ConsoleApp23\FunnyString\bin\Debug\FunnyString.exe
+C:\Users\User\source\repos\ConsoleApp23\FunnyString\bin\Debug\FunnyString.pdb
+C:\Users\User\source\repos\ConsoleApp23\FunnyString\obj\Debug\FunnyString.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\FunnyString\obj\Debug\FunnyString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\FunnyString\obj\Debug\FunnyString.exe
+C:\Users\User\source\repos\ConsoleApp23\FunnyString\obj\Debug\FunnyString.pdb

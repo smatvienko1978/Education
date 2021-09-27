@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\UlearnDelegates\bin\Debug\UlearnDelegates.exe.config
+C:\Users\User\source\repos\UlearnDelegates\bin\Debug\UlearnDelegates.exe
+C:\Users\User\source\repos\UlearnDelegates\bin\Debug\UlearnDelegates.pdb
+C:\Users\User\source\repos\UlearnDelegates\obj\Debug\UlearnDelegates.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UlearnDelegates\obj\Debug\UlearnDelegates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UlearnDelegates\obj\Debug\UlearnDelegates.exe
+C:\Users\User\source\repos\UlearnDelegates\obj\Debug\UlearnDelegates.pdb

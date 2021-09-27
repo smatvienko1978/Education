@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LimetedStack\bin\Debug\TodoApplication.exe.config
+C:\Users\User\source\repos\LimetedStack\bin\Debug\TodoApplication.exe
+C:\Users\User\source\repos\LimetedStack\bin\Debug\TodoApplication.pdb
+C:\Users\User\source\repos\LimetedStack\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\LimetedStack\obj\Debug\LimitedSizeStack.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LimetedStack\obj\Debug\TodoApplication.Properties.Resources.resources
+C:\Users\User\source\repos\LimetedStack\obj\Debug\LimitedSizeStack.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LimetedStack\obj\Debug\LimitedSizeStack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LimetedStack\obj\Debug\LimitedSizeStack.csproj.CopyComplete
+C:\Users\User\source\repos\LimetedStack\obj\Debug\TodoApplication.exe
+C:\Users\User\source\repos\LimetedStack\obj\Debug\TodoApplication.pdb

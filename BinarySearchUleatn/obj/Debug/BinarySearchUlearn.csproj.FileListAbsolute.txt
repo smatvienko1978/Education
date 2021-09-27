@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BinarySearchUleatn\bin\Debug\BinarySearchUleatn.exe.config
+C:\Users\User\source\repos\BinarySearchUleatn\bin\Debug\BinarySearchUleatn.exe
+C:\Users\User\source\repos\BinarySearchUleatn\bin\Debug\BinarySearchUleatn.pdb
+C:\Users\User\source\repos\BinarySearchUleatn\obj\Debug\BinarySearchUlearn.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BinarySearchUleatn\obj\Debug\BinarySearchUlearn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BinarySearchUleatn\obj\Debug\BinarySearchUleatn.exe
+C:\Users\User\source\repos\BinarySearchUleatn\obj\Debug\BinarySearchUleatn.pdb

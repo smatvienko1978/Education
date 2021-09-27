@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\04_ChessBoard\bin\Debug\04_ChessBoard.exe.config
+C:\Users\User\source\repos\04_ChessBoard\bin\Debug\04_ChessBoard.exe
+C:\Users\User\source\repos\04_ChessBoard\bin\Debug\04_ChessBoard.pdb
+C:\Users\User\source\repos\04_ChessBoard\obj\Debug\04_ChessBoard.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04_ChessBoard\obj\Debug\04_ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04_ChessBoard\obj\Debug\04_ChessBoard.exe
+C:\Users\User\source\repos\04_ChessBoard\obj\Debug\04_ChessBoard.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\StonesByRecursion\bin\Debug\StonesByRecursion.exe.config
+C:\Users\User\source\repos\ConsoleApp23\StonesByRecursion\bin\Debug\StonesByRecursion.exe
+C:\Users\User\source\repos\ConsoleApp23\StonesByRecursion\bin\Debug\StonesByRecursion.pdb
+C:\Users\User\source\repos\ConsoleApp23\StonesByRecursion\obj\Debug\NotFinishedPermutations_________.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\StonesByRecursion\obj\Debug\NotFinishedPermutations_________.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\StonesByRecursion\obj\Debug\StonesByRecursion.exe
+C:\Users\User\source\repos\ConsoleApp23\StonesByRecursion\obj\Debug\StonesByRecursion.pdb

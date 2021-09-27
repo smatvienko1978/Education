@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\HaloweenSale\bin\Debug\HaloweenSale.exe.config
+C:\Users\User\source\repos\HaloweenSale\bin\Debug\HaloweenSale.exe
+C:\Users\User\source\repos\HaloweenSale\bin\Debug\HaloweenSale.pdb
+C:\Users\User\source\repos\HaloweenSale\obj\Debug\HaloweenSale.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HaloweenSale\obj\Debug\HaloweenSale.exe
+C:\Users\User\source\repos\HaloweenSale\obj\Debug\HaloweenSale.pdb

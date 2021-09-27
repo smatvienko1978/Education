@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\PickingNumbers\bin\Debug\PickingNumbers.exe.config
+C:\Users\User\source\repos\ConsoleApp23\PickingNumbers\bin\Debug\PickingNumbers.exe
+C:\Users\User\source\repos\ConsoleApp23\PickingNumbers\bin\Debug\PickingNumbers.pdb
+C:\Users\User\source\repos\ConsoleApp23\PickingNumbers\obj\Debug\PickingNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\PickingNumbers\obj\Debug\PickingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\PickingNumbers\obj\Debug\PickingNumbers.exe
+C:\Users\User\source\repos\ConsoleApp23\PickingNumbers\obj\Debug\PickingNumbers.pdb

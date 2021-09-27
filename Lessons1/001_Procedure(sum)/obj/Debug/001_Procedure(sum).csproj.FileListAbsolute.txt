@@ -1,0 +1,12 @@
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure(sum)\bin\Debug\Procedure(sum).exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure(sum)\obj\Debug\Procedure(sum).exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure(sum)\obj\Debug\Procedure(sum).pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure(sum)\bin\Debug\Procedure(sum).exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure(sum)\bin\Debug\Procedure(sum).pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure(sum)\obj\Debug\001_Procedure(sum).csprojResolveAssemblyReference.cache
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\001_Procedure(sum)\bin\Debug\Procedure(sum).exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\001_Procedure(sum)\obj\Debug\Procedure(sum).exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\001_Procedure(sum)\obj\Debug\Procedure(sum).pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\001_Procedure(sum)\bin\Debug\Procedure(sum).exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\001_Procedure(sum)\bin\Debug\Procedure(sum).pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\001_Procedure(sum)\obj\Debug\001_Procedure(sum).csprojResolveAssemblyReference.cache

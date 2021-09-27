@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BankNotification\bin\Debug\BankNotification.exe.config
+C:\Users\User\source\repos\BankNotification\bin\Debug\BankNotification.exe
+C:\Users\User\source\repos\BankNotification\bin\Debug\BankNotification.pdb
+C:\Users\User\source\repos\BankNotification\obj\Debug\BankNotification.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BankNotification\obj\Debug\BankNotification.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BankNotification\obj\Debug\BankNotification.exe
+C:\Users\User\source\repos\BankNotification\obj\Debug\BankNotification.pdb

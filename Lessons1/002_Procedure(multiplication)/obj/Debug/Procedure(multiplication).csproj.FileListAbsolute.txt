@@ -1,0 +1,6 @@
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure\bin\Debug\Procedure.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure\obj\Debug\Procedure.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure\obj\Debug\Procedure.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure\bin\Debug\Procedure.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure\bin\Debug\Procedure.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Procedure\obj\Debug\Procedure(multiplication).csprojResolveAssemblyReference.cache

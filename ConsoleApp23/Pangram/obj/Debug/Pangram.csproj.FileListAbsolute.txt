@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\Pangram\bin\Debug\Pangram.exe.config
+C:\Users\User\source\repos\ConsoleApp23\Pangram\bin\Debug\Pangram.exe
+C:\Users\User\source\repos\ConsoleApp23\Pangram\bin\Debug\Pangram.pdb
+C:\Users\User\source\repos\ConsoleApp23\Pangram\obj\Debug\Pangram.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\Pangram\obj\Debug\Pangram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\Pangram\obj\Debug\Pangram.exe
+C:\Users\User\source\repos\ConsoleApp23\Pangram\obj\Debug\Pangram.pdb

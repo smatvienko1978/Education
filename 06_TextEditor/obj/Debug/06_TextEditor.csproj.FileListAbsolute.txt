@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\06_TextEditor\bin\Debug\06_TextEditor.exe.config
+C:\Users\User\source\repos\06_TextEditor\bin\Debug\06_TextEditor.exe
+C:\Users\User\source\repos\06_TextEditor\bin\Debug\06_TextEditor.pdb
+C:\Users\User\source\repos\06_TextEditor\obj\Debug\06_TextEditor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06_TextEditor\obj\Debug\06_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\06_TextEditor\obj\Debug\06_TextEditor.exe
+C:\Users\User\source\repos\06_TextEditor\obj\Debug\06_TextEditor.pdb

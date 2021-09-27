@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SuperDigit\bin\Debug\SuperDigit.exe.config
+C:\Users\User\source\repos\SuperDigit\bin\Debug\SuperDigit.exe
+C:\Users\User\source\repos\SuperDigit\bin\Debug\SuperDigit.pdb
+C:\Users\User\source\repos\SuperDigit\obj\Debug\SuperDigit.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SuperDigit\obj\Debug\SuperDigit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SuperDigit\obj\Debug\SuperDigit.exe
+C:\Users\User\source\repos\SuperDigit\obj\Debug\SuperDigit.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ConsoleApp23\CountStairsRecursion\bin\Debug\CountStairsRecursion.exe.config
+C:\Users\User\source\repos\ConsoleApp23\CountStairsRecursion\bin\Debug\CountStairsRecursion.exe
+C:\Users\User\source\repos\ConsoleApp23\CountStairsRecursion\bin\Debug\CountStairsRecursion.pdb
+C:\Users\User\source\repos\ConsoleApp23\CountStairsRecursion\obj\Debug\CountStairsRecursion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\CountStairsRecursion\obj\Debug\CountStairsRecursion.exe
+C:\Users\User\source\repos\ConsoleApp23\CountStairsRecursion\obj\Debug\CountStairsRecursion.pdb

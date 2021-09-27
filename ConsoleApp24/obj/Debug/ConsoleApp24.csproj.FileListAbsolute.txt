@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\User\source\repos\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\User\source\repos\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\User\source\repos\ConsoleApp24\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\ConsoleApp24\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\ConsoleApp24\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\ConsoleApp24\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\ConsoleApp24\obj\Debug\ConsoleApp24.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CopyComplete
+C:\Users\User\source\repos\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\User\source\repos\ConsoleApp24\obj\Debug\ConsoleApp24.pdb

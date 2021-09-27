@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\MLM\bin\Debug\MLM.exe.config
+C:\Users\User\source\repos\ConsoleApp23\MLM\bin\Debug\MLM.exe
+C:\Users\User\source\repos\ConsoleApp23\MLM\bin\Debug\MLM.pdb
+C:\Users\User\source\repos\ConsoleApp23\MLM\obj\Debug\MLM.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\MLM\obj\Debug\MLM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\MLM\obj\Debug\MLM.exe
+C:\Users\User\source\repos\ConsoleApp23\MLM\obj\Debug\MLM.pdb

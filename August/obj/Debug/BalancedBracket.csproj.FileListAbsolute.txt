@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\August\bin\Debug\August.exe.config
+C:\Users\User\source\repos\August\bin\Debug\August.exe
+C:\Users\User\source\repos\August\bin\Debug\August.pdb
+C:\Users\User\source\repos\August\obj\Debug\BalancedBracket.csprojAssemblyReference.cache
+C:\Users\User\source\repos\August\obj\Debug\BalancedBracket.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\August\obj\Debug\August.exe
+C:\Users\User\source\repos\August\obj\Debug\August.pdb

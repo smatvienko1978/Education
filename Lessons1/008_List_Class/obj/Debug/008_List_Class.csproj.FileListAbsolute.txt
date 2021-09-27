@@ -1,0 +1,6 @@
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\008_List_Class\bin\Debug\List.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\008_List_Class\obj\Debug\List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\008_List_Class\obj\Debug\List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\008_List_Class\bin\Debug\List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\008_List_Class\bin\Debug\List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\008_List_Class\obj\Debug\008_List_Class.csprojResolveAssemblyReference.cache

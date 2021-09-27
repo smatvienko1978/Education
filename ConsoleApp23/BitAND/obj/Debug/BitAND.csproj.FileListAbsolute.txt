@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\BitAND\bin\Debug\BitAND.exe.config
+C:\Users\User\source\repos\ConsoleApp23\BitAND\bin\Debug\BitAND.exe
+C:\Users\User\source\repos\ConsoleApp23\BitAND\bin\Debug\BitAND.pdb
+C:\Users\User\source\repos\ConsoleApp23\BitAND\obj\Debug\BitAND.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\BitAND\obj\Debug\BitAND.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\BitAND\obj\Debug\BitAND.exe
+C:\Users\User\source\repos\ConsoleApp23\BitAND\obj\Debug\BitAND.pdb

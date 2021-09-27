@@ -1,0 +1,6 @@
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedList Class\bin\Debug\LinkedList Class.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedList Class\bin\Debug\LinkedList Class.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedList Class\bin\Debug\LinkedList Class.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedList Class\obj\Debug\LinkedList Class.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedList Class\obj\Debug\LinkedList Class.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedList Class\obj\Debug\LinkedList Class.csprojResolveAssemblyReference.cache

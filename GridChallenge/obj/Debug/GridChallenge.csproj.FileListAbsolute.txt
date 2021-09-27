@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\GridChallenge\bin\Debug\GridChallenge.exe.config
+C:\Users\User\source\repos\GridChallenge\bin\Debug\GridChallenge.exe
+C:\Users\User\source\repos\GridChallenge\bin\Debug\GridChallenge.pdb
+C:\Users\User\source\repos\GridChallenge\obj\Debug\GridChallenge.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GridChallenge\obj\Debug\GridChallenge.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GridChallenge\obj\Debug\GridChallenge.exe
+C:\Users\User\source\repos\GridChallenge\obj\Debug\GridChallenge.pdb

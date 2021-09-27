@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\DigitsDivisorNumber\obj\Debug\DigitsDivisorNumber.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\DigitsDivisorNumber\obj\Debug\DigitsDivisorNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\DigitsDivisorNumber\bin\Debug\DigitsDivisorNumber.exe.config
+C:\Users\User\source\repos\ConsoleApp23\DigitsDivisorNumber\bin\Debug\DigitsDivisorNumber.exe
+C:\Users\User\source\repos\ConsoleApp23\DigitsDivisorNumber\bin\Debug\DigitsDivisorNumber.pdb
+C:\Users\User\source\repos\ConsoleApp23\DigitsDivisorNumber\obj\Debug\DigitsDivisorNumber.exe
+C:\Users\User\source\repos\ConsoleApp23\DigitsDivisorNumber\obj\Debug\DigitsDivisorNumber.pdb

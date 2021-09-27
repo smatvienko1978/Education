@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\PluralizeTask\bin\Debug\PluralizeTask.exe.config
+C:\Users\User\source\repos\PluralizeTask\bin\Debug\PluralizeTask.exe
+C:\Users\User\source\repos\PluralizeTask\bin\Debug\PluralizeTask.pdb
+C:\Users\User\source\repos\PluralizeTask\obj\Debug\PluralizeTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PluralizeTask\obj\Debug\PluralizeTask.exe
+C:\Users\User\source\repos\PluralizeTask\obj\Debug\PluralizeTask.pdb

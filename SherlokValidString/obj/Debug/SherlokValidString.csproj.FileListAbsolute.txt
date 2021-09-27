@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SherlokValidString\bin\Debug\SherlokValidString.exe.config
+C:\Users\User\source\repos\SherlokValidString\bin\Debug\SherlokValidString.exe
+C:\Users\User\source\repos\SherlokValidString\bin\Debug\SherlokValidString.pdb
+C:\Users\User\source\repos\SherlokValidString\obj\Debug\SherlokValidString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SherlokValidString\obj\Debug\SherlokValidString.exe
+C:\Users\User\source\repos\SherlokValidString\obj\Debug\SherlokValidString.pdb
+C:\Users\User\source\repos\SherlokValidString\obj\Debug\SherlokValidString.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\FlippingBits\bin\Debug\FlippingBits.exe.config
+C:\Users\User\source\repos\FlippingBits\bin\Debug\FlippingBits.exe
+C:\Users\User\source\repos\FlippingBits\bin\Debug\FlippingBits.pdb
+C:\Users\User\source\repos\FlippingBits\obj\Debug\FlippingBits.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FlippingBits\obj\Debug\FlippingBits.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FlippingBits\obj\Debug\FlippingBits.exe
+C:\Users\User\source\repos\FlippingBits\obj\Debug\FlippingBits.pdb

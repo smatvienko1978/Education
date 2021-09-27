@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Beautifi\obj\Debug\BeautifulTriplets.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Beautifi\obj\Debug\BeautifulTriplets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Beautifi\bin\Debug\Beautifi.exe.config
+C:\Users\User\source\repos\Beautifi\bin\Debug\Beautifi.exe
+C:\Users\User\source\repos\Beautifi\bin\Debug\Beautifi.pdb
+C:\Users\User\source\repos\Beautifi\obj\Debug\Beautifi.exe
+C:\Users\User\source\repos\Beautifi\obj\Debug\Beautifi.pdb

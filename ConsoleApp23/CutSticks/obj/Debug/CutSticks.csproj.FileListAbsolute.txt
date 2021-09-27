@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\CutSticks\bin\Debug\CutSticks.exe.config
+C:\Users\User\source\repos\ConsoleApp23\CutSticks\bin\Debug\CutSticks.exe
+C:\Users\User\source\repos\ConsoleApp23\CutSticks\bin\Debug\CutSticks.pdb
+C:\Users\User\source\repos\ConsoleApp23\CutSticks\obj\Debug\CutSticks.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\CutSticks\obj\Debug\CutSticks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\CutSticks\obj\Debug\CutSticks.exe
+C:\Users\User\source\repos\ConsoleApp23\CutSticks\obj\Debug\CutSticks.pdb

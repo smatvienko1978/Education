@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\LisaBooks\bin\Debug\LisaBooks.exe.config
+C:\Users\User\source\repos\LisaBooks\bin\Debug\LisaBooks.exe
+C:\Users\User\source\repos\LisaBooks\bin\Debug\LisaBooks.pdb
+C:\Users\User\source\repos\LisaBooks\obj\Debug\LisaBooks.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LisaBooks\obj\Debug\LisaBooks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LisaBooks\obj\Debug\LisaBooks.exe
+C:\Users\User\source\repos\LisaBooks\obj\Debug\LisaBooks.pdb

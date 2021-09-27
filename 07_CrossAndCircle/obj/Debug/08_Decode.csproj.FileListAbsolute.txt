@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\07_CrossAndCircle\obj\Debug\08_Decode.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07_CrossAndCircle\obj\Debug\08_Decode.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\07_CrossAndCircle\bin\Debug\07_CrossAndCircle.exe.config
+C:\Users\User\source\repos\07_CrossAndCircle\bin\Debug\07_CrossAndCircle.exe
+C:\Users\User\source\repos\07_CrossAndCircle\bin\Debug\07_CrossAndCircle.pdb
+C:\Users\User\source\repos\07_CrossAndCircle\obj\Debug\07_CrossAndCircle.exe
+C:\Users\User\source\repos\07_CrossAndCircle\obj\Debug\07_CrossAndCircle.pdb

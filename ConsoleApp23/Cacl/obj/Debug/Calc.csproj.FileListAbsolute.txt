@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ConsoleApp23\Cacl\bin\Debug\Cacl.exe.config
+C:\Users\User\source\repos\ConsoleApp23\Cacl\bin\Debug\Cacl.exe
+C:\Users\User\source\repos\ConsoleApp23\Cacl\bin\Debug\Cacl.pdb
+C:\Users\User\source\repos\ConsoleApp23\Cacl\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\Cacl\obj\Debug\Cacl.exe
+C:\Users\User\source\repos\ConsoleApp23\Cacl\obj\Debug\Cacl.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\compareTriplets\bin\Debug\compareTriplets.exe.config
+C:\Users\User\source\repos\compareTriplets\bin\Debug\compareTriplets.exe
+C:\Users\User\source\repos\compareTriplets\bin\Debug\compareTriplets.pdb
+C:\Users\User\source\repos\compareTriplets\obj\Debug\compareTriplets.csprojAssemblyReference.cache
+C:\Users\User\source\repos\compareTriplets\obj\Debug\compareTriplets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\compareTriplets\obj\Debug\compareTriplets.exe
+C:\Users\User\source\repos\compareTriplets\obj\Debug\compareTriplets.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\10_Population\obj\Debug\10_Population.csprojAssemblyReference.cache
+C:\Users\User\source\repos\10_Population\obj\Debug\10_Population.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\10_Population\bin\Debug\10_Population.exe.config
+C:\Users\User\source\repos\10_Population\bin\Debug\10_Population.exe
+C:\Users\User\source\repos\10_Population\bin\Debug\10_Population.pdb
+C:\Users\User\source\repos\10_Population\obj\Debug\10_Population.exe
+C:\Users\User\source\repos\10_Population\obj\Debug\10_Population.pdb

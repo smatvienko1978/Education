@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CounterGame\bin\Debug\CounterGame.exe.config
+C:\Users\User\source\repos\CounterGame\bin\Debug\CounterGame.exe
+C:\Users\User\source\repos\CounterGame\bin\Debug\CounterGame.pdb
+C:\Users\User\source\repos\CounterGame\obj\Debug\CounterGame.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CounterGame\obj\Debug\CounterGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CounterGame\obj\Debug\CounterGame.exe
+C:\Users\User\source\repos\CounterGame\obj\Debug\CounterGame.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TestFirstWeek\bin\Debug\TestFirstWeek.exe.config
+C:\Users\User\source\repos\TestFirstWeek\bin\Debug\TestFirstWeek.exe
+C:\Users\User\source\repos\TestFirstWeek\bin\Debug\TestFirstWeek.pdb
+C:\Users\User\source\repos\TestFirstWeek\obj\Debug\TestFirstWeek.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TestFirstWeek\obj\Debug\TestFirstWeek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestFirstWeek\obj\Debug\TestFirstWeek.exe
+C:\Users\User\source\repos\TestFirstWeek\obj\Debug\TestFirstWeek.pdb

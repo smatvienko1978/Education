@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CodeWars\obj\Debug\camelCase.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CodeWars\obj\Debug\camelCase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CodeWars\bin\Debug\CodeWars.exe.config
+C:\Users\User\source\repos\CodeWars\bin\Debug\CodeWars.exe
+C:\Users\User\source\repos\CodeWars\bin\Debug\CodeWars.pdb
+C:\Users\User\source\repos\CodeWars\obj\Debug\CodeWars.exe
+C:\Users\User\source\repos\CodeWars\obj\Debug\CodeWars.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\02_FrequencyArray\bin\Debug\02_FrequencyArray.exe.config
+C:\Users\User\source\repos\02_FrequencyArray\bin\Debug\02_FrequencyArray.exe
+C:\Users\User\source\repos\02_FrequencyArray\bin\Debug\02_FrequencyArray.pdb
+C:\Users\User\source\repos\02_FrequencyArray\obj\Debug\02_FrequencyArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\02_FrequencyArray\obj\Debug\02_FrequencyArray.exe
+C:\Users\User\source\repos\02_FrequencyArray\obj\Debug\02_FrequencyArray.pdb
+C:\Users\User\source\repos\02_FrequencyArray\obj\Debug\02_FrequencyArray.csprojAssemblyReference.cache

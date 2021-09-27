@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\QHEAP1\bin\Debug\QHEAP1.exe.config
+C:\Users\User\source\repos\QHEAP1\bin\Debug\QHEAP1.exe
+C:\Users\User\source\repos\QHEAP1\bin\Debug\QHEAP1.pdb
+C:\Users\User\source\repos\QHEAP1\obj\Debug\QHEAP1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QHEAP1\obj\Debug\QHEAP1.exe
+C:\Users\User\source\repos\QHEAP1\obj\Debug\QHEAP1.pdb
+C:\Users\User\source\repos\QHEAP1\obj\Debug\QHEAP1.csprojAssemblyReference.cache

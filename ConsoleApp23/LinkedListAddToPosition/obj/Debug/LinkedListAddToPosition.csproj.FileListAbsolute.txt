@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\LinkedListAddToPosition\obj\Debug\LinkedListAddToPosition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\LinkedListAddToPosition\bin\Debug\LinkedListAddToPosition.exe.config
+C:\Users\User\source\repos\ConsoleApp23\LinkedListAddToPosition\bin\Debug\LinkedListAddToPosition.exe
+C:\Users\User\source\repos\ConsoleApp23\LinkedListAddToPosition\bin\Debug\LinkedListAddToPosition.pdb
+C:\Users\User\source\repos\ConsoleApp23\LinkedListAddToPosition\obj\Debug\LinkedListAddToPosition.exe
+C:\Users\User\source\repos\ConsoleApp23\LinkedListAddToPosition\obj\Debug\LinkedListAddToPosition.pdb
+C:\Users\User\source\repos\ConsoleApp23\LinkedListAddToPosition\obj\Debug\LinkedListAddToPosition.csprojAssemblyReference.cache

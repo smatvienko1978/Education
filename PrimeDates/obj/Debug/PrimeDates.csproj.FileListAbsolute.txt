@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PrimeDates\bin\Debug\PrimeDates.exe.config
+C:\Users\User\source\repos\PrimeDates\bin\Debug\PrimeDates.exe
+C:\Users\User\source\repos\PrimeDates\bin\Debug\PrimeDates.pdb
+C:\Users\User\source\repos\PrimeDates\obj\Debug\PrimeDates.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrimeDates\obj\Debug\PrimeDates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrimeDates\obj\Debug\PrimeDates.exe
+C:\Users\User\source\repos\PrimeDates\obj\Debug\PrimeDates.pdb

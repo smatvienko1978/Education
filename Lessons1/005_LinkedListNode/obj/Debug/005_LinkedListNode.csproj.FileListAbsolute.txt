@@ -1,0 +1,12 @@
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedListNode\bin\Debug\LinkedListNode.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedListNode\obj\Debug\LinkedListNode.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedListNode\obj\Debug\LinkedListNode.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedListNode\bin\Debug\LinkedListNode.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedListNode\bin\Debug\LinkedListNode.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\LinkedListNode\obj\Debug\005_LinkedListNode.csprojResolveAssemblyReference.cache
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\005_LinkedListNode\bin\Debug\LinkedListNode.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\005_LinkedListNode\obj\Debug\LinkedListNode.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\005_LinkedListNode\obj\Debug\LinkedListNode.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\005_LinkedListNode\bin\Debug\LinkedListNode.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\005_LinkedListNode\bin\Debug\LinkedListNode.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\005_LinkedListNode\obj\Debug\005_LinkedListNode.csprojResolveAssemblyReference.cache

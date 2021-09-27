@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\VeryBigFactorial\bin\Debug\VeryBigFactorial.exe.config
+C:\Users\User\source\repos\ConsoleApp23\VeryBigFactorial\bin\Debug\VeryBigFactorial.exe
+C:\Users\User\source\repos\ConsoleApp23\VeryBigFactorial\bin\Debug\VeryBigFactorial.pdb
+C:\Users\User\source\repos\ConsoleApp23\VeryBigFactorial\obj\Debug\VeryBigFactorial.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\VeryBigFactorial\obj\Debug\VeryBigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\VeryBigFactorial\obj\Debug\VeryBigFactorial.exe
+C:\Users\User\source\repos\ConsoleApp23\VeryBigFactorial\obj\Debug\VeryBigFactorial.pdb

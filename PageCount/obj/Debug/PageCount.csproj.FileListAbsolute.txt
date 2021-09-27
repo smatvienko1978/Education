@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PageCount\bin\Debug\PageCount.exe.config
+C:\Users\User\source\repos\PageCount\bin\Debug\PageCount.exe
+C:\Users\User\source\repos\PageCount\bin\Debug\PageCount.pdb
+C:\Users\User\source\repos\PageCount\obj\Debug\PageCount.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PageCount\obj\Debug\PageCount.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PageCount\obj\Debug\PageCount.exe
+C:\Users\User\source\repos\PageCount\obj\Debug\PageCount.pdb

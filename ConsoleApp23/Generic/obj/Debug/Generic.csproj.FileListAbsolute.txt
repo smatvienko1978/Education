@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\Generic\bin\Debug\Generic.exe.config
+C:\Users\User\source\repos\ConsoleApp23\Generic\bin\Debug\Generic.exe
+C:\Users\User\source\repos\ConsoleApp23\Generic\bin\Debug\Generic.pdb
+C:\Users\User\source\repos\ConsoleApp23\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\Generic\obj\Debug\Generic.exe
+C:\Users\User\source\repos\ConsoleApp23\Generic\obj\Debug\Generic.pdb

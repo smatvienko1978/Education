@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ConsoleApp23\Commivoyager\bin\Debug\Commivoyager.exe.config
+C:\Users\User\source\repos\ConsoleApp23\Commivoyager\bin\Debug\Commivoyager.exe
+C:\Users\User\source\repos\ConsoleApp23\Commivoyager\bin\Debug\Commivoyager.pdb
+C:\Users\User\source\repos\ConsoleApp23\Commivoyager\obj\Debug\Commivoyager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\Commivoyager\obj\Debug\Commivoyager.exe
+C:\Users\User\source\repos\ConsoleApp23\Commivoyager\obj\Debug\Commivoyager.pdb

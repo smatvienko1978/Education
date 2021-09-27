@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ulearn_Tests\bin\Debug\Ulearn_Tests.exe.config
+C:\Users\User\source\repos\Ulearn_Tests\bin\Debug\Ulearn_Tests.exe
+C:\Users\User\source\repos\Ulearn_Tests\bin\Debug\Ulearn_Tests.pdb
+C:\Users\User\source\repos\Ulearn_Tests\obj\Debug\Ulearn_Tests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ulearn_Tests\obj\Debug\Ulearn_Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ulearn_Tests\obj\Debug\Ulearn_Tests.exe
+C:\Users\User\source\repos\Ulearn_Tests\obj\Debug\Ulearn_Tests.pdb

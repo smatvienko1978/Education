@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Ulearn_DLL\bin\Debug\Ulearn_DLL.dll
+C:\Users\User\source\repos\Ulearn_DLL\bin\Debug\Ulearn_DLL.pdb
+C:\Users\User\source\repos\Ulearn_DLL\obj\Debug\Ulearn_DLL.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ulearn_DLL\obj\Debug\Ulearn_DLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ulearn_DLL\obj\Debug\Ulearn_DLL.dll
+C:\Users\User\source\repos\Ulearn_DLL\obj\Debug\Ulearn_DLL.pdb

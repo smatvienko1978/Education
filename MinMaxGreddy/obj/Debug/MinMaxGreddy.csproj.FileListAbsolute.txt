@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MinMaxGreddy\bin\Debug\MinMaxGreddy.exe.config
+C:\Users\User\source\repos\MinMaxGreddy\bin\Debug\MinMaxGreddy.exe
+C:\Users\User\source\repos\MinMaxGreddy\bin\Debug\MinMaxGreddy.pdb
+C:\Users\User\source\repos\MinMaxGreddy\obj\Debug\MinMaxGreddy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MinMaxGreddy\obj\Debug\MinMaxGreddy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MinMaxGreddy\obj\Debug\MinMaxGreddy.exe
+C:\Users\User\source\repos\MinMaxGreddy\obj\Debug\MinMaxGreddy.pdb

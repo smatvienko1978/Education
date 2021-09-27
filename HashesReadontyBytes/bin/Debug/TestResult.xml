@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="readonly-bytes.exe" fullname="C:/Users/User/source/repos/HashesReadontyBytes/bin/Debug/readonly-bytes.exe" testcasecount="14" result="Failed" start-time="2021-09-23 09:03:46Z" end-time="2021-09-23 09:03:47Z" duration="0.861064" total="14" passed="10" failed="4" inconclusive="0" skipped="0" asserts="100023" random-seed="276166290">
+  <command-line><![CDATA["C:\Users\User\source\repos\HashesReadontyBytes\bin\Debug\readonly-bytes.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1016" name="readonly-bytes.exe" fullname="C:/Users/User/source/repos/HashesReadontyBytes/bin/Debug/readonly-bytes.exe" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2021-09-23 09:03:46Z" end-time="2021-09-23 09:03:47Z" duration="0.861064" total="14" passed="10" failed="4" warnings="0" inconclusive="0" skipped="0" asserts="100023">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\User\source\repos\HashesReadontyBytes\bin\Debug" machine-name="DELL" user="User" user-domain="DELL" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\User\source\repos\HashesReadontyBytes\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="5664" />
+      <property name="_APPDOMAIN" value="readonly-bytes.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1017" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2021-09-23 09:03:46Z" end-time="2021-09-23 09:03:47Z" duration="0.827012" total="14" passed="10" failed="4" warnings="0" inconclusive="0" skipped="0" asserts="100023">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1000" name="ReadonlyBytesTests" fullname="hashes.ReadonlyBytesTests" classname="hashes.ReadonlyBytesTests" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2021-09-23 09:03:46Z" end-time="2021-09-23 09:03:47Z" duration="0.818012" total="14" passed="10" failed="4" warnings="0" inconclusive="0" skipped="0" asserts="100023">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1001" name="Creation" fullname="hashes.ReadonlyBytesTests.Creation" methodname="Creation" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="355546531" result="Passed" start-time="2021-09-23 09:03:46Z" end-time="2021-09-23 09:03:46Z" duration="0.009780" asserts="0" />
+        <test-case id="1002" name="CreationException" fullname="hashes.ReadonlyBytesTests.CreationException" methodname="CreationException" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="969310235" result="Failed" start-time="2021-09-23 09:03:46Z" end-time="2021-09-23 09:03:47Z" duration="0.455969" asserts="1">
+          <failure>
+            <message><![CDATA[  Expected: <System.ArgumentNullException>
+  But was:  <System.ArgumentException: Null is not correct argument
+   в hashes.ReadonlyBytes..ctor(Byte[] args) в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytes.cs:строка 14
+   в hashes.ReadonlyBytesTests.<>c.<CreationException>b__1_0() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 20
+   в NUnit.Framework.Assert.Throws(IResolveConstraint expression, TestDelegate code, String message, Object[] args)>
+]]></message>
+            <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.CreationException() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 20
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected: <System.ArgumentNullException>
+  But was:  <System.ArgumentException: Null is not correct argument
+   в hashes.ReadonlyBytes..ctor(Byte[] args) в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytes.cs:строка 14
+   в hashes.ReadonlyBytesTests.<>c.<CreationException>b__1_0() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 20
+   в NUnit.Framework.Assert.Throws(IResolveConstraint expression, TestDelegate code, String message, Object[] args)>
+]]></message>
+              <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.CreationException() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 20
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="1006" name="Enumeration" fullname="hashes.ReadonlyBytesTests.Enumeration" methodname="Enumeration" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="602844007" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.021921" asserts="1" />
+        <test-case id="1007" name="EqualOnSameBytes" fullname="hashes.ReadonlyBytesTests.EqualOnSameBytes" methodname="EqualOnSameBytes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="26598216" result="Failed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.066051" asserts="1">
+          <failure>
+            <message><![CDATA[  Expected: True
+  But was:  False
+]]></message>
+            <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.EqualOnSameBytes() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 69
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected: True
+  But was:  False
+]]></message>
+              <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.EqualOnSameBytes() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 69
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="1013" name="HashCode" fullname="hashes.ReadonlyBytesTests.HashCode" methodname="HashCode" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1459655293" result="Failed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.052210" asserts="1">
+          <failure>
+            <message><![CDATA[  Expected: 54135081
+  But was:  63094882
+]]></message>
+            <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.HashCode() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 99
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected: 54135081
+  But was:  63094882
+]]></message>
+              <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.HashCode() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 99
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="1004" name="Indexer" fullname="hashes.ReadonlyBytesTests.Indexer" methodname="Indexer" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="2024256860" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.000535" asserts="3" />
+        <test-case id="1005" name="IndexOutOfRangeException" fullname="hashes.ReadonlyBytesTests.IndexOutOfRangeException" methodname="IndexOutOfRangeException" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="568755956" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.026701" asserts="1" />
+        <test-case id="1003" name="Length" fullname="hashes.ReadonlyBytesTests.Length" methodname="Length" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="557155662" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.000451" asserts="1" />
+        <test-case id="1015" name="MassiveCallToGetHashCodeOfLargeBytesArray" fullname="hashes.ReadonlyBytesTests.MassiveCallToGetHashCodeOfLargeBytesArray" methodname="MassiveCallToGetHashCodeOfLargeBytesArray" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1951427374" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.076796" asserts="100000" />
+        <test-case id="1008" name="NotEqualIfBytesDiffer" fullname="hashes.ReadonlyBytesTests.NotEqualIfBytesDiffer" methodname="NotEqualIfBytesDiffer" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1577127500" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.001451" asserts="4" />
+        <test-suite type="ParameterizedMethod" id="1012" name="NotEqualWithOtherTypes" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.013257" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+          <test-case id="1009" name="NotEqualWithOtherTypes(System.Byte[])" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes(System.Byte[])" methodname="NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1205008522" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.003896" asserts="3" />
+          <test-case id="1010" name="NotEqualWithOtherTypes(System.Byte[])" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes(System.Byte[])" methodname="NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1495974416" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.000098" asserts="3" />
+          <test-case id="1011" name="NotEqualWithOtherTypes(System.Byte[])" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes(System.Byte[])" methodname="NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="791921091" result="Passed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.000084" asserts="3" />
+        </test-suite>
+        <test-case id="1014" name="ToStringIsOverridden" fullname="hashes.ReadonlyBytesTests.ToStringIsOverridden" methodname="ToStringIsOverridden" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1995063371" result="Failed" start-time="2021-09-23 09:03:47Z" end-time="2021-09-23 09:03:47Z" duration="0.058829" asserts="1">
+          <failure>
+            <message><![CDATA[  Expected string length 3 but was 20. Strings differ at index 0.
+  Expected: "[2]"
+  But was:  "hashes.ReadonlyBytes"
+  -----------^
+]]></message>
+            <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.ToStringIsOverridden() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 114
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected string length 3 but was 20. Strings differ at index 0.
+  Expected: "[2]"
+  But was:  "hashes.ReadonlyBytes"
+  -----------^
+]]></message>
+              <stack-trace><![CDATA[в hashes.ReadonlyBytesTests.ToStringIsOverridden() в C:\Users\User\source\repos\HashesReadontyBytes\ReadonlyBytesTests.cs:строка 114
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

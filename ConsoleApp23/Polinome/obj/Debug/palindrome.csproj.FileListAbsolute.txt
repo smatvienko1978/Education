@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\Polinome\bin\Debug\Polinome.exe.config
+C:\Users\User\source\repos\ConsoleApp23\Polinome\bin\Debug\Polinome.exe
+C:\Users\User\source\repos\ConsoleApp23\Polinome\bin\Debug\Polinome.pdb
+C:\Users\User\source\repos\ConsoleApp23\Polinome\obj\Debug\palindrome.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\Polinome\obj\Debug\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\Polinome\obj\Debug\Polinome.exe
+C:\Users\User\source\repos\ConsoleApp23\Polinome\obj\Debug\Polinome.pdb

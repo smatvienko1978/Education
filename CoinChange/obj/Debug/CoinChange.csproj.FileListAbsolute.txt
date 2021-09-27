@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CoinChange\bin\Debug\CoinChange.exe.config
+C:\Users\User\source\repos\CoinChange\bin\Debug\CoinChange.exe
+C:\Users\User\source\repos\CoinChange\bin\Debug\CoinChange.pdb
+C:\Users\User\source\repos\CoinChange\obj\Debug\CoinChange.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CoinChange\obj\Debug\CoinChange.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CoinChange\obj\Debug\CoinChange.exe
+C:\Users\User\source\repos\CoinChange\obj\Debug\CoinChange.pdb

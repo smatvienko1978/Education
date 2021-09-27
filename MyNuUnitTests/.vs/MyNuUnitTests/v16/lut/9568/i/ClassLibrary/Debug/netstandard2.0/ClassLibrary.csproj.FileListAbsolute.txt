@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibrary\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\b\ClassLibrary\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibrary\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibrary\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibrary\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibrary\Debug\netstandard2.0\ClassLibrary.csproj.CopyComplete
+C:\Users\User\source\repos\MyNuUnitTests\.vs\MyNuUnitTests\v16\lut\0\i\ClassLibrary\Debug\netstandard2.0\ClassLibrary.dll

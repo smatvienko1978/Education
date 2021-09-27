@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BlinkFor30DaysProgramming\bin\Debug\BlinkFor30DaysProgramming.exe.config
+C:\Users\User\source\repos\BlinkFor30DaysProgramming\bin\Debug\BlinkFor30DaysProgramming.exe
+C:\Users\User\source\repos\BlinkFor30DaysProgramming\bin\Debug\BlinkFor30DaysProgramming.pdb
+C:\Users\User\source\repos\BlinkFor30DaysProgramming\obj\Debug\BlinkFor30DaysProgramming.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BlinkFor30DaysProgramming\obj\Debug\BlinkFor30DaysProgramming.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BlinkFor30DaysProgramming\obj\Debug\BlinkFor30DaysProgramming.exe
+C:\Users\User\source\repos\BlinkFor30DaysProgramming\obj\Debug\BlinkFor30DaysProgramming.pdb

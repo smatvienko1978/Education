@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ConsoleApp23\CountStairs\bin\Debug\CountStairs.exe.config
+C:\Users\User\source\repos\ConsoleApp23\CountStairs\bin\Debug\CountStairs.exe
+C:\Users\User\source\repos\ConsoleApp23\CountStairs\bin\Debug\CountStairs.pdb
+C:\Users\User\source\repos\ConsoleApp23\CountStairs\obj\Debug\CountStairsNoRecursion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\CountStairs\obj\Debug\CountStairs.exe
+C:\Users\User\source\repos\ConsoleApp23\CountStairs\obj\Debug\CountStairs.pdb

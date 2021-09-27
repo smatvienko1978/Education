@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\SimpleLinkedList\bin\Debug\SimpleLinkedList.exe.config
+C:\Users\User\source\repos\ConsoleApp23\SimpleLinkedList\bin\Debug\SimpleLinkedList.exe
+C:\Users\User\source\repos\ConsoleApp23\SimpleLinkedList\bin\Debug\SimpleLinkedList.pdb
+C:\Users\User\source\repos\ConsoleApp23\SimpleLinkedList\obj\Debug\SimpleLinkedList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\SimpleLinkedList\obj\Debug\SimpleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\SimpleLinkedList\obj\Debug\SimpleLinkedList.exe
+C:\Users\User\source\repos\ConsoleApp23\SimpleLinkedList\obj\Debug\SimpleLinkedList.pdb

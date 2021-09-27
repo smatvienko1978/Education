@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\BubbleSort2\bin\Debug\BubbleSort2.exe.config
+C:\Users\User\source\repos\ConsoleApp23\BubbleSort2\bin\Debug\BubbleSort2.exe
+C:\Users\User\source\repos\ConsoleApp23\BubbleSort2\bin\Debug\BubbleSort2.pdb
+C:\Users\User\source\repos\ConsoleApp23\BubbleSort2\obj\Debug\BubbleSort2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\BubbleSort2\obj\Debug\BubbleSort2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\BubbleSort2\obj\Debug\BubbleSort2.exe
+C:\Users\User\source\repos\ConsoleApp23\BubbleSort2\obj\Debug\BubbleSort2.pdb

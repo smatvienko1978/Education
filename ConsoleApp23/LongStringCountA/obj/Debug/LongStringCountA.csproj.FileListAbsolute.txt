@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\LongStringCountA\bin\Debug\LongStringCountA.exe.config
+C:\Users\User\source\repos\ConsoleApp23\LongStringCountA\bin\Debug\LongStringCountA.exe
+C:\Users\User\source\repos\ConsoleApp23\LongStringCountA\bin\Debug\LongStringCountA.pdb
+C:\Users\User\source\repos\ConsoleApp23\LongStringCountA\obj\Debug\LongStringCountA.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\LongStringCountA\obj\Debug\LongStringCountA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\LongStringCountA\obj\Debug\LongStringCountA.exe
+C:\Users\User\source\repos\ConsoleApp23\LongStringCountA\obj\Debug\LongStringCountA.pdb

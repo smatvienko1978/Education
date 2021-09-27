@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\AppendAndDeleteStr\bin\Debug\AppendAndDeleteStr.exe.config
+C:\Users\User\source\repos\ConsoleApp23\AppendAndDeleteStr\bin\Debug\AppendAndDeleteStr.exe
+C:\Users\User\source\repos\ConsoleApp23\AppendAndDeleteStr\bin\Debug\AppendAndDeleteStr.pdb
+C:\Users\User\source\repos\ConsoleApp23\AppendAndDeleteStr\obj\Debug\AppendAndDeleteStr.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\AppendAndDeleteStr\obj\Debug\AppendAndDeleteStr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\AppendAndDeleteStr\obj\Debug\AppendAndDeleteStr.exe
+C:\Users\User\source\repos\ConsoleApp23\AppendAndDeleteStr\obj\Debug\AppendAndDeleteStr.pdb

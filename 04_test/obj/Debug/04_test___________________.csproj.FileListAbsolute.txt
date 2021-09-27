@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\04_test\bin\Debug\04_test.exe.config
+C:\Users\User\source\repos\04_test\bin\Debug\04_test.exe
+C:\Users\User\source\repos\04_test\bin\Debug\04_test.pdb
+C:\Users\User\source\repos\04_test\obj\Debug\04_test___________________.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04_test\obj\Debug\04_test___________________.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04_test\obj\Debug\04_test.exe
+C:\Users\User\source\repos\04_test\obj\Debug\04_test.pdb

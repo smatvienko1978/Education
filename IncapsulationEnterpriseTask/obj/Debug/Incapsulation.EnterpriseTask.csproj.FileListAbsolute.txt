@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\IncapsulationEnterpriseTask\bin\Debug\Incapsulation.Enterprise.dll.config
+C:\Users\User\source\repos\IncapsulationEnterpriseTask\bin\Debug\Incapsulation.Enterprise.dll
+C:\Users\User\source\repos\IncapsulationEnterpriseTask\bin\Debug\Incapsulation.Enterprise.pdb
+C:\Users\User\source\repos\IncapsulationEnterpriseTask\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\IncapsulationEnterpriseTask\obj\Debug\Incapsulation.EnterpriseTask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IncapsulationEnterpriseTask\obj\Debug\Incapsulation.EnterpriseTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IncapsulationEnterpriseTask\obj\Debug\Incapsulation.EnterpriseTask.csproj.CopyComplete
+C:\Users\User\source\repos\IncapsulationEnterpriseTask\obj\Debug\Incapsulation.Enterprise.dll
+C:\Users\User\source\repos\IncapsulationEnterpriseTask\obj\Debug\Incapsulation.Enterprise.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\HacerRankString\bin\Debug\HacerRankString.exe.config
+C:\Users\User\source\repos\ConsoleApp23\HacerRankString\bin\Debug\HacerRankString.exe
+C:\Users\User\source\repos\ConsoleApp23\HacerRankString\bin\Debug\HacerRankString.pdb
+C:\Users\User\source\repos\ConsoleApp23\HacerRankString\obj\Debug\HacerRankString.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\HacerRankString\obj\Debug\HacerRankString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\HacerRankString\obj\Debug\HacerRankString.exe
+C:\Users\User\source\repos\ConsoleApp23\HacerRankString\obj\Debug\HacerRankString.pdb

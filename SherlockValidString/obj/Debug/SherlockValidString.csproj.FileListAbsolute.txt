@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SherlockValidString\bin\Debug\SherlockValidString.exe.config
+C:\Users\User\source\repos\SherlockValidString\bin\Debug\SherlockValidString.exe
+C:\Users\User\source\repos\SherlockValidString\bin\Debug\SherlockValidString.pdb
+C:\Users\User\source\repos\SherlockValidString\obj\Debug\SherlockValidString.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SherlockValidString\obj\Debug\SherlockValidString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SherlockValidString\obj\Debug\SherlockValidString.exe
+C:\Users\User\source\repos\SherlockValidString\obj\Debug\SherlockValidString.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\Regexp\bin\Debug\Regexp.exe.config
+C:\Users\User\source\repos\ConsoleApp23\Regexp\bin\Debug\Regexp.exe
+C:\Users\User\source\repos\ConsoleApp23\Regexp\bin\Debug\Regexp.pdb
+C:\Users\User\source\repos\ConsoleApp23\Regexp\obj\Debug\Regexp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\Regexp\obj\Debug\Regexp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\Regexp\obj\Debug\Regexp.exe
+C:\Users\User\source\repos\ConsoleApp23\Regexp\obj\Debug\Regexp.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\EqualPieces_DP\bin\Debug\EqualPieces_DP.exe.config
+C:\Users\User\source\repos\EqualPieces_DP\bin\Debug\EqualPieces_DP.exe
+C:\Users\User\source\repos\EqualPieces_DP\bin\Debug\EqualPieces_DP.pdb
+C:\Users\User\source\repos\EqualPieces_DP\obj\Debug\EqualPieces_DP.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EqualPieces_DP\obj\Debug\EqualPieces_DP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EqualPieces_DP\obj\Debug\EqualPieces_DP.exe
+C:\Users\User\source\repos\EqualPieces_DP\obj\Debug\EqualPieces_DP.pdb

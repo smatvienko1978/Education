@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\04_TrimSpace\bin\Debug\04_TrimSpace.exe.config
+C:\Users\User\source\repos\04_TrimSpace\bin\Debug\04_TrimSpace.exe
+C:\Users\User\source\repos\04_TrimSpace\bin\Debug\04_TrimSpace.pdb
+C:\Users\User\source\repos\04_TrimSpace\obj\Debug\04_TrimSpace.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04_TrimSpace\obj\Debug\04_TrimSpace.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04_TrimSpace\obj\Debug\04_TrimSpace.exe
+C:\Users\User\source\repos\04_TrimSpace\obj\Debug\04_TrimSpace.pdb

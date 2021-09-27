@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\UlearnPractice\bin\Debug\UlearnPractice.exe.config
+C:\Users\User\source\repos\UlearnPractice\bin\Debug\UlearnPractice.exe
+C:\Users\User\source\repos\UlearnPractice\bin\Debug\UlearnPractice.pdb
+C:\Users\User\source\repos\UlearnPractice\obj\Debug\QueensCombination.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UlearnPractice\obj\Debug\UlearnPractice.exe
+C:\Users\User\source\repos\UlearnPractice\obj\Debug\UlearnPractice.pdb

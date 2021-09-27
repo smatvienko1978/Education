@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\RepeatableCharacters\bin\Debug\RepeatableCharacters.exe.config
+C:\Users\User\source\repos\ConsoleApp23\RepeatableCharacters\bin\Debug\RepeatableCharacters.exe
+C:\Users\User\source\repos\ConsoleApp23\RepeatableCharacters\bin\Debug\RepeatableCharacters.pdb
+C:\Users\User\source\repos\ConsoleApp23\RepeatableCharacters\obj\Debug\RepeatableCharacters.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\RepeatableCharacters\obj\Debug\RepeatableCharacters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\RepeatableCharacters\obj\Debug\RepeatableCharacters.exe
+C:\Users\User\source\repos\ConsoleApp23\RepeatableCharacters\obj\Debug\RepeatableCharacters.pdb

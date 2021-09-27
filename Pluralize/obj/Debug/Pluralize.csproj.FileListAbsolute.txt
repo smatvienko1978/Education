@@ -1,0 +1,8 @@
+D:\test\bin\Debug\rubles.txt
+D:\test\bin\Debug\Pluralize.exe.config
+D:\test\bin\Debug\Pluralize.exe
+D:\test\bin\Debug\Pluralize.pdb
+D:\test\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
+D:\test\obj\Debug\Pluralize.exe
+D:\test\obj\Debug\Pluralize.pdb
+D:\test\obj\Debug\Pluralize.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\GemStones\bin\Debug\GemStones.exe.config
+C:\Users\User\source\repos\ConsoleApp23\GemStones\bin\Debug\GemStones.exe
+C:\Users\User\source\repos\ConsoleApp23\GemStones\bin\Debug\GemStones.pdb
+C:\Users\User\source\repos\ConsoleApp23\GemStones\obj\Debug\GemStones.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\GemStones\obj\Debug\GemStones.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\GemStones\obj\Debug\GemStones.exe
+C:\Users\User\source\repos\ConsoleApp23\GemStones\obj\Debug\GemStones.pdb

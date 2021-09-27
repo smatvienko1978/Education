@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\NonDivisibleSubset(Permutations)\bin\Debug\NonDivisibleSubset(Permutations).exe.config
+C:\Users\User\source\repos\NonDivisibleSubset(Permutations)\bin\Debug\NonDivisibleSubset(Permutations).exe
+C:\Users\User\source\repos\NonDivisibleSubset(Permutations)\bin\Debug\NonDivisibleSubset(Permutations).pdb
+C:\Users\User\source\repos\NonDivisibleSubset(Permutations)\obj\Debug\NonDivisibleSubset____________________.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NonDivisibleSubset(Permutations)\obj\Debug\NonDivisibleSubset____________________.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NonDivisibleSubset(Permutations)\obj\Debug\NonDivisibleSubset(Permutations).exe
+C:\Users\User\source\repos\NonDivisibleSubset(Permutations)\obj\Debug\NonDivisibleSubset(Permutations).pdb

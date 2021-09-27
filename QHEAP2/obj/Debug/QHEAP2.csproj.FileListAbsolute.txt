@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\QHEAP2\bin\Debug\QHEAP2.exe.config
+C:\Users\User\source\repos\QHEAP2\bin\Debug\QHEAP2.exe
+C:\Users\User\source\repos\QHEAP2\bin\Debug\QHEAP2.pdb
+C:\Users\User\source\repos\QHEAP2\obj\Debug\QHEAP2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QHEAP2\obj\Debug\QHEAP2.exe
+C:\Users\User\source\repos\QHEAP2\obj\Debug\QHEAP2.pdb

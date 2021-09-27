@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\LenaLuckGreddy\bin\Debug\LenaLuckGreddy.exe.config
+C:\Users\User\source\repos\LenaLuckGreddy\bin\Debug\LenaLuckGreddy.exe
+C:\Users\User\source\repos\LenaLuckGreddy\bin\Debug\LenaLuckGreddy.pdb
+C:\Users\User\source\repos\LenaLuckGreddy\obj\Debug\LenaLuckGreddy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LenaLuckGreddy\obj\Debug\LenaLuckGreddy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LenaLuckGreddy\obj\Debug\LenaLuckGreddy.exe
+C:\Users\User\source\repos\LenaLuckGreddy\obj\Debug\LenaLuckGreddy.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Combinations\bin\Debug\Combinations.exe.config
+C:\Users\User\source\repos\Combinations\bin\Debug\Combinations.exe
+C:\Users\User\source\repos\Combinations\bin\Debug\Combinations.pdb
+C:\Users\User\source\repos\Combinations\obj\Debug\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Combinations\obj\Debug\Combinations.exe
+C:\Users\User\source\repos\Combinations\obj\Debug\Combinations.pdb
+C:\Users\User\source\repos\Combinations\obj\Debug\Combinations.csprojAssemblyReference.cache

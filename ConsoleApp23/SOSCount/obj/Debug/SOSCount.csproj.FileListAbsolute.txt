@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ConsoleApp23\SOSCount\bin\Debug\SOSCount.exe.config
+C:\Users\User\source\repos\ConsoleApp23\SOSCount\bin\Debug\SOSCount.exe
+C:\Users\User\source\repos\ConsoleApp23\SOSCount\bin\Debug\SOSCount.pdb
+C:\Users\User\source\repos\ConsoleApp23\SOSCount\obj\Debug\SOSCount.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\SOSCount\obj\Debug\SOSCount.exe
+C:\Users\User\source\repos\ConsoleApp23\SOSCount\obj\Debug\SOSCount.pdb

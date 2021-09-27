@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\QueUeByTwoStack\bin\Debug\QueUeByTwoStack.exe.config
+C:\Users\User\source\repos\QueUeByTwoStack\bin\Debug\QueUeByTwoStack.exe
+C:\Users\User\source\repos\QueUeByTwoStack\bin\Debug\QueUeByTwoStack.pdb
+C:\Users\User\source\repos\QueUeByTwoStack\obj\Debug\QueUeByTwoStack.csprojAssemblyReference.cache
+C:\Users\User\source\repos\QueUeByTwoStack\obj\Debug\QueUeByTwoStack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QueUeByTwoStack\obj\Debug\QueUeByTwoStack.exe
+C:\Users\User\source\repos\QueUeByTwoStack\obj\Debug\QueUeByTwoStack.pdb

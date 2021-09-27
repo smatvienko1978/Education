@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\Permutations\bin\Debug\Permutations.exe.config
+C:\Users\User\source\repos\ConsoleApp23\Permutations\bin\Debug\Permutations.exe
+C:\Users\User\source\repos\ConsoleApp23\Permutations\bin\Debug\Permutations.pdb
+C:\Users\User\source\repos\ConsoleApp23\Permutations\obj\Debug\Permutations.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\Permutations\obj\Debug\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\Permutations\obj\Debug\Permutations.exe
+C:\Users\User\source\repos\ConsoleApp23\Permutations\obj\Debug\Permutations.pdb

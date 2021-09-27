@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\SalesByMatches\bin\Debug\SalesByMatches.exe.config
+C:\Users\User\source\repos\SalesByMatches\bin\Debug\SalesByMatches.exe
+C:\Users\User\source\repos\SalesByMatches\bin\Debug\SalesByMatches.pdb
+C:\Users\User\source\repos\SalesByMatches\obj\Debug\SalesByMatches.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SalesByMatches\obj\Debug\SalesByMatches.exe
+C:\Users\User\source\repos\SalesByMatches\obj\Debug\SalesByMatches.pdb

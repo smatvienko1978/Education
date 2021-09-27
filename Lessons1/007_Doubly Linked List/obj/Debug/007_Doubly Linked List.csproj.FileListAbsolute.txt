@@ -1,0 +1,12 @@
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Doubly Linked List\bin\Debug\Doubly Linked List.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Doubly Linked List\bin\Debug\Doubly Linked List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Doubly Linked List\bin\Debug\Doubly Linked List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Doubly Linked List\obj\Debug\Doubly Linked List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Doubly Linked List\obj\Debug\Doubly Linked List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\Doubly Linked List\obj\Debug\007_Doubly Linked List.csprojResolveAssemblyReference.cache
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\007_Doubly Linked List\bin\Debug\Doubly Linked List.exe.config
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\007_Doubly Linked List\obj\Debug\Doubly Linked List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\007_Doubly Linked List\obj\Debug\Doubly Linked List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\007_Doubly Linked List\bin\Debug\Doubly Linked List.exe
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\007_Doubly Linked List\bin\Debug\Doubly Linked List.pdb
+C:\Users\Alexander_KPI\SkyDrive\Documents\Algoritm & Data Structures\Урок 1\Lessons1\Lessons1\007_Doubly Linked List\obj\Debug\007_Doubly Linked List.csprojResolveAssemblyReference.cache

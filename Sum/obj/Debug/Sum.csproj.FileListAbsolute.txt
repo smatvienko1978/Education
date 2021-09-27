@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Sum\bin\Debug\Sum.exe.config
+C:\Users\User\source\repos\Sum\bin\Debug\Sum.exe
+C:\Users\User\source\repos\Sum\bin\Debug\Sum.pdb
+C:\Users\User\source\repos\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sum\obj\Debug\Sum.exe
+C:\Users\User\source\repos\Sum\obj\Debug\Sum.pdb

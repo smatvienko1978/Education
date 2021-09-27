@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\IceCreamPailor\bin\Debug\IceCreamPailor.exe.config
+C:\Users\User\source\repos\IceCreamPailor\bin\Debug\IceCreamPailor.exe
+C:\Users\User\source\repos\IceCreamPailor\bin\Debug\IceCreamPailor.pdb
+C:\Users\User\source\repos\IceCreamPailor\obj\Debug\IceCreamPailor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IceCreamPailor\obj\Debug\IceCreamPailor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IceCreamPailor\obj\Debug\IceCreamPailor.exe
+C:\Users\User\source\repos\IceCreamPailor\obj\Debug\IceCreamPailor.pdb

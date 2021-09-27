@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\ClimbingLeaderboard\obj\Debug\ClimbingLeaderboard.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\ClimbingLeaderboard\obj\Debug\ClimbingLeaderboard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\ClimbingLeaderboard\bin\Debug\ClimbingLeaderboard.exe.config
+C:\Users\User\source\repos\ConsoleApp23\ClimbingLeaderboard\bin\Debug\ClimbingLeaderboard.exe
+C:\Users\User\source\repos\ConsoleApp23\ClimbingLeaderboard\bin\Debug\ClimbingLeaderboard.pdb
+C:\Users\User\source\repos\ConsoleApp23\ClimbingLeaderboard\obj\Debug\ClimbingLeaderboard.exe
+C:\Users\User\source\repos\ConsoleApp23\ClimbingLeaderboard\obj\Debug\ClimbingLeaderboard.pdb

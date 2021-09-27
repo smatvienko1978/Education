@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\CloudsJumps\bin\Debug\CloudsJumps.exe.config
+C:\Users\User\source\repos\ConsoleApp23\CloudsJumps\bin\Debug\CloudsJumps.exe
+C:\Users\User\source\repos\ConsoleApp23\CloudsJumps\bin\Debug\CloudsJumps.pdb
+C:\Users\User\source\repos\ConsoleApp23\CloudsJumps\obj\Debug\CloudsJumps.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\CloudsJumps\obj\Debug\CloudsJumps.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\CloudsJumps\obj\Debug\CloudsJumps.exe
+C:\Users\User\source\repos\ConsoleApp23\CloudsJumps\obj\Debug\CloudsJumps.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CavityMap\bin\Debug\CavityMap.exe.config
+C:\Users\User\source\repos\CavityMap\bin\Debug\CavityMap.exe
+C:\Users\User\source\repos\CavityMap\bin\Debug\CavityMap.pdb
+C:\Users\User\source\repos\CavityMap\obj\Debug\CavityMap_____________.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CavityMap\obj\Debug\CavityMap_____________.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CavityMap\obj\Debug\CavityMap.exe
+C:\Users\User\source\repos\CavityMap\obj\Debug\CavityMap.pdb

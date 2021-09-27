@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp23\EqualizeArray\bin\Debug\EqualizeArray.exe.config
+C:\Users\User\source\repos\ConsoleApp23\EqualizeArray\bin\Debug\EqualizeArray.exe
+C:\Users\User\source\repos\ConsoleApp23\EqualizeArray\bin\Debug\EqualizeArray.pdb
+C:\Users\User\source\repos\ConsoleApp23\EqualizeArray\obj\Debug\EqualizeArray.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp23\EqualizeArray\obj\Debug\EqualizeArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp23\EqualizeArray\obj\Debug\EqualizeArray.exe
+C:\Users\User\source\repos\ConsoleApp23\EqualizeArray\obj\Debug\EqualizeArray.pdb

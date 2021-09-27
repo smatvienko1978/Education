@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\MaximumToys\bin\Debug\MaximumToys.exe.config
+C:\Users\User\source\repos\MaximumToys\bin\Debug\MaximumToys.exe
+C:\Users\User\source\repos\MaximumToys\bin\Debug\MaximumToys.pdb
+C:\Users\User\source\repos\MaximumToys\obj\Debug\MaximumToys.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MaximumToys\obj\Debug\MaximumToys.exe
+C:\Users\User\source\repos\MaximumToys\obj\Debug\MaximumToys.pdb
